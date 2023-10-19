@@ -1,8 +1,8 @@
 import Image from 'next/image'
-import 파이썬 from '/Users/inhyuk-ryu/cloud/public/파이썬아이콘-removebg-preview.png'
-import 유니티 from '/Users/inhyuk-ryu/cloud/public/유니티아이콘2-removebg-preview.png'
-import 아두이노 from '/Users/inhyuk-ryu/cloud/public/아두이노아이콘-removebg-preview.png'
-import 스크래치 from '/Users/inhyuk-ryu/cloud/public/스크래치아이콘-removebg-preview.png'
+import 파이썬 from '/Users/inhyuk-ryu/cloud/src/app/images/파이썬아이콘-removebg-preview.png'
+import 유니티 from '/Users/inhyuk-ryu/cloud/src/app/images/유니티아이콘2-removebg-preview.png'
+import 아두이노 from '/Users/inhyuk-ryu/cloud/src/app/images/아두이노아이콘-removebg-preview.png'
+import 스크래치 from '/Users/inhyuk-ryu/cloud/src/app/images/스크래치아이콘-removebg-preview.png'
 import Link from "next/link"
 
 
