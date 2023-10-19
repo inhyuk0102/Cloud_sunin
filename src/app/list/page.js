@@ -34,9 +34,12 @@ export default function Home() {
       <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm"></div>
       <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
         <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-        <Image src={유니티}/>
+        <Image src= {유니티}/>
 
         </div>
+
+
+
         <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">유니티</h2>
           <p className="leading-relaxed">3D 죽림고수, 박민창굴리기, 알까기, 베리나 퀴즈</p>
