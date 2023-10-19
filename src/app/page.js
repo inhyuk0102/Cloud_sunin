@@ -3,7 +3,7 @@
 import React from 'react'
 import Lottie from 'react-lottie-player'
 import Link from "next/link"
-import loadingLottie from '/Users/inhyuk-ryu/cloud/public/images/developer.json'
+import loadingLottie from '/Users/inhyuk-ryu/cloud/src/app/images/developer.json'
 export default function Home() {
   return(
     <div>
